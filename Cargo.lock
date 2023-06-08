@@ -117,8 +117,9 @@ dependencies = [
 
 [[package]]
 name = "qoaudio"
-version = "0.5.0"
-source = "git+https://github.com/benhansen-io/qoaudio#ec8adc4876ebd0336917ec3acca9953443448328"
+version = "0.6.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "c9fe2b3412d5763e147e77d11b1c4b13e8e3aa8083f9a7f8dd2dccb7413a36d7"
 
 [[package]]
 name = "qoaudio_compare_test"
